@@ -10,7 +10,7 @@ public class A101Hello {
 	// Java code can be executed without main method using static block.
 
 	public static void main(String[] args) {
-		System.out.println("Hello World");
+		System.out.println("Hello Worlds");
 	}
 }
 
